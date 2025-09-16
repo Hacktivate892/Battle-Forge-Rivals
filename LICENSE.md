@@ -1,21 +1,26 @@
-Copyright © **2025** **Gunin Modi**  
+# Custom Usage License for Gunin Modi / Battle Forge: Rivals
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this code or anything related to the code including but not limited to sprites, buttons, and backgrounds etc., to use the files for personal or commercial purposes, subject to the following conditions:  
+**License Grant**:  
+Subject to the terms herein, you are granted a limited, non-exclusive, non-transferable, and revocable license to use the files provided by Gunin Modi / Battle Forge: Rivals solely for personal, educational, or commercial purposes.
 
-No Modification Without Permission  
+**Restrictions on Modification**:  
+You are expressly prohibited from modifying, remixing, translating, adapting, or creating derivative works based on the original files without obtaining prior written consent from Gunin Modi / Battle Forge: Rivals.
 
-The Resource may not be modified, altered, adapted, or built upon in any way without the prior written consent of the copyright holder.  
+**Ownership of Components**:  
+All images, backgrounds, and media contained within the files are the property of their respective owners. Use of such components must comply with all applicable rights held by the original owners.
 
-Redistribution  
+**Combined Files**:  
+Any files combined, edited, or created by Gunin Modi / Battle Forge: Rivals from multiple sources constitute the exclusive intellectual property of Gunin Modi / Battle Forge: Rivals. You must obtain explicit written permission before integrating, combining, or utilizing these files in conjunction with any other work. Unauthorized combination, reproduction, or redistribution is strictly prohibited.
 
-Redistribution of the Resource in its original, unmodified form is permitted, provided that proper credit is given to the copyright holder.  
+**Distribution**:  
+Redistribution, sublicensing, sale, public sharing, or any form of dissemination of the original or combined files without prior written consent from Gunin Modi / Battle Forge: Rivals is strictly prohibited.
 
-Attribution (Credit Requirement)  
+**Attribution**:  
+Proper attribution to Gunin Modi / Battle Forge: Rivals is required when utilizing any combined files.
 
-Any use or redistribution of the Resource must include clear and visible credit to the copyright holder. The following notice must appear in all copies or substantial portions of the Resource, whether in documentation, splash screens, about pages, or other appropriate locations:  
+**Legal Enforcement**:  
+Any violation of this license may subject the violator to civil and/or criminal liability, including claims for copyright infringement, misappropriation of intellectual property, and other applicable legal remedies.
 
-© **2025** **Gunin Modi** - Used with permission  
+**Disclaimer**:  
+All files are provided “as-is” without warranties of any kind, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Gunin Modi / Battle Forge: Rivals shall not be held liable for any damages resulting from use of the files.
 
-No Warranty  
-
-The Resource is provided "as is", without warranty of any kind, express or implied. The copyright holder shall not be liable for any claim, damages, or other liability arising from the use of the Resource.
